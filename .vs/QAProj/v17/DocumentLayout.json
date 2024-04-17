@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Scripts\\QAProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|c:\\scripts\\qaproj\\qaproj\\veeamtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|solutionrelative:qaproj\\veeamtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|c:\\scripts\\qaproj\\qaproj\\veeampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|solutionrelative:qaproj\\veeampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeeamPage.cs",
+              "DocumentMoniker": "C:\\Scripts\\QAProj\\QAProj\\VeeamPage.cs",
+              "RelativeDocumentMoniker": "QAProj\\VeeamPage.cs",
+              "ToolTip": "C:\\Scripts\\QAProj\\QAProj\\VeeamPage.cs",
+              "RelativeToolTip": "QAProj\\VeeamPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:53:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeeamTest.cs",
+              "DocumentMoniker": "C:\\Scripts\\QAProj\\QAProj\\VeeamTest.cs",
+              "RelativeDocumentMoniker": "QAProj\\VeeamTest.cs",
+              "ToolTip": "C:\\Scripts\\QAProj\\QAProj\\VeeamTest.cs",
+              "RelativeToolTip": "QAProj\\VeeamTest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:54:54.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
