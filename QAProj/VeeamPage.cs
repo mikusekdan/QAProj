@@ -18,7 +18,6 @@ namespace QAProj
         IWebElement _searchButton => _driver.FindElement(By.Id("nav-search-submit-button"));
 
         IWebElement _selectCountryCombo => _driver.FindElement(By.XPath("//div[@class = 'form-group d-md-flex']/div[@class = 'dropdown']/div[@class = 'dropdown']/button"));
-        //"//div[@class = 'form-group d-md-flex']/div[@class = 'dropdown']/div[@class = 'dropdown']/button"));
 
         IWebElement _selectCityCombo => _driver.FindElement(By.XPath("//button[@Id = 'city-toggler' and text() = 'All cities']"));
 

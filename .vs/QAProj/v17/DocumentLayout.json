@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Scripts\\QAProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|c:\\scripts\\qaproj\\qaproj\\veeampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|solutionrelative:qaproj\\veeampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|c:\\scripts\\qaproj\\qaproj\\veeamtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|solutionrelative:qaproj\\veeamtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|c:\\scripts\\qaproj\\qaproj\\veeampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|solutionrelative:qaproj\\veeampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|c:\\scripts\\qaproj\\qaproj\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FF54F7-329F-48EE-AE24-DBAFB1CB448A}|QAProj\\QAProj.csproj|solutionrelative:qaproj\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Scripts\\QAProj\\QAProj\\TestBase.cs",
+              "RelativeDocumentMoniker": "QAProj\\TestBase.cs",
+              "ToolTip": "C:\\Scripts\\QAProj\\QAProj\\TestBase.cs",
+              "RelativeToolTip": "QAProj\\TestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:00:21.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "VeeamPage.cs",
               "DocumentMoniker": "C:\\Scripts\\QAProj\\QAProj\\VeeamPage.cs",
               "RelativeDocumentMoniker": "QAProj\\VeeamPage.cs",
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VeeamTest.cs",
               "DocumentMoniker": "C:\\Scripts\\QAProj\\QAProj\\VeeamTest.cs",
               "RelativeDocumentMoniker": "QAProj\\VeeamTest.cs",
               "ToolTip": "C:\\Scripts\\QAProj\\QAProj\\VeeamTest.cs",
               "RelativeToolTip": "QAProj\\VeeamTest.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T08:54:54.076Z",
               "EditorCaption": ""
