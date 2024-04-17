@@ -17,7 +17,7 @@ namespace QAProj
             vp.SelectCountryFromSelectBoxByName("Romania");
             vp.SelectCityFromSelectBoxByName("Bucharest");
             vp.ClickOnFindButton();
-            vp.AssertNumberOfSalesCards(29);ss
+            vp.AssertNumberOfSalesCards(29);
 
         }
 
